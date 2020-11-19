@@ -1,0 +1,67 @@
+body {
+    color: rgb(0, 71, 68);
+}
+#start {
+    border:rgba(0, 132, 255, 0.575); 
+    background-color: rgb(0, 238, 255);
+    width: 100%; 
+    height: 60px;
+    }
+#links {
+background: rgba(0, 238, 255, 0.514);
+border:rgba(0, 132, 255, 0.493);
+}
+#dis {
+background: rgba(79, 243, 255, 0.555);
+border:rgba(0, 132, 255, 0.507); 
+height: 500px
+}
+#headline {
+    display: inline;
+    font-size: 50px;
+}
+.links:hover{
+    background-color: rgba(0, 107, 107, 0.397);
+}
+.ground-button:hover{
+    background-color: rgba(0, 107, 107, 0.397);
+}
+.water-button:hover{
+    background-color: rgba(0, 107, 107, 0.397);
+}
+.start-button:hover{
+    background-color: rgba(0, 107, 107, 0.397);
+}
+A {
+    color: rgb(40, 91, 100);
+    }
+    
+    A:visited {
+    color: rgb(40, 91, 100);
+    }
+    .ground-button {
+        display: inline;
+        text-align: center;
+        font-size: 40px;
+        vertical-align: top;
+        transition: 0.3s ease-in-out;
+        text-decoration: none;
+        text-transform: uppercase;
+    }
+    .water-button {
+        display: inline;
+        font-size: 40px;
+        margin-left: 5px;
+        vertical-align: top;
+        transition: 0.3s ease-in-out;
+        text-decoration: none;
+        text-transform: uppercase;
+    }
+    .start-button {
+        display: inline;
+        font-size: 40px;
+        vertical-align: top;
+        transition: 0.3s ease-in-out;
+        text-decoration: none;
+        text-transform: uppercase;
+    }

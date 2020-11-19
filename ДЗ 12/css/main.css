@@ -1,0 +1,40 @@
+body {
+    color: rgb(48, 73, 0);
+    
+    text-align: center;
+}
+#start {
+border:rgba(21, 126, 0, 0.692); 
+background-color: rgba(197, 255, 139, 0.726); 
+padding-top: 5px;
+height: 150px;
+}
+#links {
+background: rgba(197, 255, 139, 0.712);
+border: rgba(21, 126, 0, 0.733);
+height: 150px;
+margin-right: 15px;
+}
+#dis {
+background: rgba(197, 255, 139, 0.753);
+border:  rgba(21, 126, 0, 0.733); 
+margin-right: 15px;
+height: 200px;
+}
+
+#links a{
+    border-radius: 10px;
+    box-shadow: inset 0 -5px 0 #40382D;
+  }
+#links a:hover {
+    box-shadow: inset 0 -70px 0 #40382D, 2px 2px 3px rgba(0,0,0,0.3);
+  }
+  .air {
+      color: rgb(0, 203, 218);
+  }
+  .ground {
+      color: rgb(199, 73, 0);
+  }
+  .water {
+      color: rgb(97, 94, 255);
+  }

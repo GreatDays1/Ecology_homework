@@ -1,0 +1,70 @@
+
+    body {
+        color: rgb(255, 255, 255);
+    }
+#start {
+border: rgba(0, 51, 99, 0.705); 
+background-color: rgba(29, 70, 255, 0.808); 
+width: 100%; 
+height: 60px;
+}
+#links {
+background: rgba(29, 70, 255, 0.808);
+border:rgba(0, 51, 99, 0.705); 
+margin-right: 15px;
+}
+#dis {
+background: rgba(29, 70, 255, 0.808);
+border:rgba(0, 51, 99, 0.705);
+margin-right: 15px;
+height: 550px;
+}
+#headline {
+    display: inline;
+    font-size: 50px;
+}
+A {
+color: rgb(161, 186, 255);
+}
+A:visited {
+color: rgb(161, 186, 255);
+}
+.ground-button {
+    display: inline;
+    text-align: center;
+    font-size: 40px;
+    vertical-align: top;
+    transition: 0.3s ease-in-out;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.start-button {
+    display: inline;
+    font-size: 40px;
+    vertical-align: top;
+    transition: 0.3s ease-in-out;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.air-button {
+    display: inline;
+    font-size: 40px;
+    vertical-align: top;
+    text-align: center;
+    transition: 0.3s ease-in-out;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.ground-button:hover{
+    background-color: rgba(0, 11, 107, 0.397);
+}
+.start-button:hover{
+    background-color: rgba(0, 11, 107, 0.397);
+}
+.air-button:hover{
+    background-color: rgba(0, 11, 107, 0.397);
+}
+.links:hover{
+    background-color: rgba(0, 11, 107, 0.397);
+}
+   

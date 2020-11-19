@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(241, 165, 184);
+    font-family: Candara Light;
+}
+#start {
+    width: 99%;  height: 200px;
+    border: 3px solid; 
+    border-radius: 10px;
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+   
+#dis {
+    padding: 30px;
+    border: 3px solid; 
+    border-radius: 10px;
+    height: 300px;
+    margin-top: 10px;
+   }
+   
+#links {
+    padding: 15px;
+    border: 3px; 
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 100px;
+    text-align: center;
+   }
+   A {
+    text-decoration: none;
+    }
